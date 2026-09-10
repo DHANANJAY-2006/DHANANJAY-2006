@@ -18,6 +18,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Debug GraphQL with GITHUB_TOKEN
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            -H "Authorization: bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "User-Agent: Actions" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/graphql \
+            -d '{"query":"query userInfo($username: String!) { user(login: $username) { createdAt contributionsCollection { totalCommitContributions } } }","variables":{"username":"DHANANJAY-2006"}}')
+          echo "GraphQL Response: $RESPONSE"
+
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         with:
@@ -26,71 +36,37 @@ jobs:
       - name: Checkout generator and apply fix
         run: |
           git clone --branch feature/generate-svg --depth 1 https://github.com/Erik-Donath/github-profile-trophy.git trophy-gen
-          cat << 'EOF' > trophy-gen/src/Services/request.ts
-          import {
+          python3 -c "
+          code = '''import {
             EServiceKindError,
-            GithubError,
             ServiceError,
-          } from "../Types/index.ts";
+          } from \"../Types/index.ts\";
 
           export async function requestGithubData<T = unknown>(
             query: string,
             variables: { [key: string]: string },
-            token = "",
+            token = \"\",
           ) {
-            const res = await fetch("https://api.github.com/graphql", {
-              method: "POST",
+            const res = await fetch(\"https://api.github.com/graphql\", {
+              method: \"POST\",
               headers: {
-                "Content-Type": "application/json",
-                "Authorization": `bearer ${token}`,
-                "User-Agent": "github-profile-trophy",
+                \"Content-Type\": \"application/json\",
+                \"Authorization\": \`bearer \${token}\`,
+                \"User-Agent\": \"github-profile-trophy\",
               },
               body: JSON.stringify({ query, variables }),
             });
             const responseData = await res.json();
+            console.log(\"Fetch status:\", res.status, JSON.stringify(responseData));
             if (responseData?.data?.user) {
               return responseData.data.user;
             }
-            console.error("GraphQL response:", JSON.stringify(responseData));
-            throw handleError(responseData);
+            throw new ServiceError(\"Not found\", EServiceKindError.NOT_FOUND);
           }
-
-          function handleError(
-            responseData: {
-              data?: unknown;
-              errors?: GithubError[];
-              message?: string;
-              documentation_url?: string;
-            },
-          ): ServiceError {
-            let isRateLimitExceeded = false;
-            const arrayErrors = responseData?.errors || [];
-
-            if (Array.isArray(arrayErrors) && arrayErrors.length > 0) {
-              isRateLimitExceeded = arrayErrors.some((error) =>
-                error.type && error.type.includes(EServiceKindError.RATE_LIMIT)
-              );
-            }
-
-            if (responseData?.message) {
-              isRateLimitExceeded = responseData.message.toLowerCase().includes(
-                "rate limit",
-              );
-            }
-
-            if (isRateLimitExceeded) {
-              throw new ServiceError(
-                "Rate limit exceeded",
-                EServiceKindError.RATE_LIMIT,
-              );
-            }
-
-            throw new ServiceError(
-              "unknown error",
-              EServiceKindError.NOT_FOUND,
-            );
-          }
-          EOF
+          '''
+          with open('trophy-gen/src/Services/request.ts', 'w') as f:
+              f.write(code)
+          "
 
       - name: generate trophy.svg
         env:
