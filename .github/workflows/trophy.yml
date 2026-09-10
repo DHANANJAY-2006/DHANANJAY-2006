@@ -18,18 +18,92 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
         with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
+          deno-version: v1.x
+
+      - name: Checkout generator and apply fix
+        run: |
+          git clone --branch feature/generate-svg --depth 1 https://github.com/Erik-Donath/github-profile-trophy.git trophy-gen
+          cat << 'EOF' > trophy-gen/src/Services/request.ts
+          import {
+            EServiceKindError,
+            GithubError,
+            ServiceError,
+          } from "../Types/index.ts";
+
+          export async function requestGithubData<T = unknown>(
+            query: string,
+            variables: { [key: string]: string },
+            token = "",
+          ) {
+            const res = await fetch("https://api.github.com/graphql", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+                "Authorization": `bearer ${token}`,
+                "User-Agent": "github-profile-trophy",
+              },
+              body: JSON.stringify({ query, variables }),
+            });
+            const responseData = await res.json();
+            if (responseData?.data?.user) {
+              return responseData.data.user;
+            }
+            console.error("GraphQL response:", JSON.stringify(responseData));
+            throw handleError(responseData);
+          }
+
+          function handleError(
+            responseData: {
+              data?: unknown;
+              errors?: GithubError[];
+              message?: string;
+              documentation_url?: string;
+            },
+          ): ServiceError {
+            let isRateLimitExceeded = false;
+            const arrayErrors = responseData?.errors || [];
+
+            if (Array.isArray(arrayErrors) && arrayErrors.length > 0) {
+              isRateLimitExceeded = arrayErrors.some((error) =>
+                error.type && error.type.includes(EServiceKindError.RATE_LIMIT)
+              );
+            }
+
+            if (responseData?.message) {
+              isRateLimitExceeded = responseData.message.toLowerCase().includes(
+                "rate limit",
+              );
+            }
+
+            if (isRateLimitExceeded) {
+              throw new ServiceError(
+                "Rate limit exceeded",
+                EServiceKindError.RATE_LIMIT,
+              );
+            }
+
+            throw new ServiceError(
+              "unknown error",
+              EServiceKindError.NOT_FOUND,
+            );
+          }
+          EOF
+
+      - name: generate trophy.svg
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          deno run --allow-net --allow-env --allow-read --allow-write \
+            trophy-gen/render_svg.ts \
+            "${{ github.repository_owner }}" \
+            --file "dist/trophy.svg" \
+            --theme "dracula" \
+            --rows "1" \
+            --margin-width "8" \
+            --margin-height "8"
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
