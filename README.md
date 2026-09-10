@@ -52,27 +52,16 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,bash" height="50" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" height="50" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,firebase" height="50" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,gcp,linux" height="50" />
-
-**Security & Tools**
-
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,tailwind,html,css,nodejs,mongodb,mysql,postgresql,firebase,docker,git,gcp,linux,figma,androidstudio,tensorflow,npm" height="50" />
+<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" />
-<img src="https://skillicons.dev/icons?i=androidstudio,tensorflow,npm" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" />
 
 </div>
 
@@ -89,21 +78,6 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANANJAY-2006)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006" />
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhananjay-2006&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=dhananjay-2006&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-2006&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-2006&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ff79c6" />
 
 </div>
 
@@ -130,17 +104,6 @@ Started from zero with a curiosity about "how computers actually work," fell dee
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
 </picture>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" height="25" /> Random Dev Wisdom
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
