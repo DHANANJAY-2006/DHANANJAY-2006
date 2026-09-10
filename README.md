@@ -1,98 +1,152 @@
-<h1 data-importer="text" align="center">Welcome to my digital workspace 👾</h1>
+<!-- HEADER WAVE TOP -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Dhananjay%20Kadge&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&color=gradient&customColorList=12,14,19,20,24" />
 
-###
+<!-- TYPING SVG INTRO -->
+<div align="center">
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="60" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&repeat=true&width=700&lines=Hey+there!+I'm+Dhananjay+%F0%9F%91%BE;Full+Stack+Developer+%7C+Cyber+Security+Engineer;Living+in+the+terminal+%F0%9F%96%A5%EF%B8%8F;Building+secure+%26+scalable+tech+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/dhananjay-kadge-2006-19-oct" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@dytea_edit.?si=te2sfcubehggyaw-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/dhananjay_191006" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+<!-- ABOUT ME -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+
+```bash
+$ cat about_me.txt
+```
+
+```yaml
+Name        : Dhananjay Kadge
+Role        : Full Stack Developer | Cyber Security Engineer
+Location    : India 🇮🇳
+Education   : Engineering Student (2006 batch)
+Terminal    : Zsh + Kali Linux daily driver
+Status      : Always building something cool...
+```
+
+> *"The quieter you become, the more you can hear — the terminal never lies."* 🖤
+
+- 🔐 Obsessed with **Cyber Security**, ethical hacking & penetration testing
+- 🌐 Building **Full Stack Applications** — from backend APIs to polished frontends
+- 🐧 Living in the **terminal** — exploring Kali, Bash scripts & the Linux kernel
+- 🤖 Experimenting with **AI/ML** tools and automation pipelines
+- ☁️ Learning **Cloud & DevOps** (Docker, GCP, Firebase deployments)
+- 🎯 Currently focused on building **secure, scalable, and beautiful software**
+
+<details>
+<summary>⚡ More about my journey...</summary>
+<br>
+
+Started from zero with a curiosity about "how computers actually work," fell deep into Linux and the security rabbit hole. Now I build full-stack systems by day and explore vulnerabilities, networks, and terminal wizardry by night.
+
+**What fuels me:** Creating tools that solve real problems, understanding systems at their core, and never stopping at "it works" — always asking *why* it works.
+
+</details>
+
+---
+
+<!-- TECH STACK -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,bash" height="50" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" height="50" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,firebase" height="50" />
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,gcp,linux" height="50" />
+
+**Security & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" />
+<img src="https://skillicons.dev/icons?i=androidstudio,tensorflow,npm" height="50" />
+
 </div>
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006&"  />
+<!-- SOCIALS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="30" height="30" /> Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kadge-2006-19-oct)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dytea_edit.?si=te2sfcubehggyaw-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhananjay_191006)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANANJAY-2006)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006" />
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=dhananjay-2006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!-- GITHUB STATS -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhananjay-2006&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=dhananjay-2006&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-2006&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-2006&theme=dracula&hide_border=true&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ff79c6" />
+
 </div>
 
-###
+---
+
+<!-- TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/trophy-output/trophy.svg" />
+
+</div>
+
+---
+
+<!-- GALAGA CONTRIBUTION GRAPH -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30" height="30" /> Contribution Arena
 
 <br clear="both">
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
 </picture>
 
-###
+---
 
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<!-- QUOTE -->
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" height="25" /> Random Dev Wisdom
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
-###
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,19,20,24" />
+
+<div align="center">
+  <sub>⚡ Built with passion, caffeine & too many terminal windows · <a href="https://github.com/DHANANJAY-2006">DHANANJAY-2006</a></sub>
+</div>
