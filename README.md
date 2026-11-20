@@ -139,23 +139,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 ---
 
 <!-- ============================================================ -->
-<!-- 4. COMPETITIVE PROGRAMMING (Andrew-Velox Style)              -->
-<!-- ============================================================ -->
-<div align="center">
-  <h2 align="center">💻 Competitive programming 💻</h2>
-  <br/>
-
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-  <br>
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- 5. ACHIEVEMENTS & CONTRIBUTIONS                              -->
+<!-- 4. ACHIEVEMENTS & CONTRIBUTIONS                              -->
 <!-- ============================================================ -->
 <div align="center">
   <h2 align="center">🏆 GitHub Trophies 🏆</h2>
