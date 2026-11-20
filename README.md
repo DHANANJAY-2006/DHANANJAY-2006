@@ -39,15 +39,14 @@ Building secure, scalable systems with clean architecture and robust solutions.
 ---
 
 <!-- ============================================================ -->
-<!-- 2. STATS SHOWCASE (Andrew-Velox Style)                       -->
+<!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
 <img align='right' width="260" src='.github/assets/kenkankei_cmp.png' alt="Ken Kaneki">
 
 <p align="center">
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" width="400px" alt="GitHub Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" width="400px" alt="Streak Stats"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANANJAY-2006&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats"/>
+  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Metrics Activity"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
