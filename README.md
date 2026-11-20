@@ -41,16 +41,16 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <!-- ============================================================ -->
 <!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
-<img align='right' width="280" src='.github/assets/matrix_cyber.jpg' alt="Cyber Matrix Art">
+<img align="right" width="360" src=".github/assets/cyber_ascii.svg" alt="Cyber Security Terminal ASCII Art" />
 
 <p align="center">
+  <img width="420px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats"/>
   <br/><br/>
-  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats"/>
-  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Metrics Activity"/>
+  <img width="420px" src=".github/assets/metrics-activity.svg" alt="Metrics Activity"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 <br clear="both" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 
 ---
 
