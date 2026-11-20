@@ -78,22 +78,10 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 ---
 
 <!-- ============================================================ -->
-<!-- 3. GITHUB STATS & SHOWCASE (Andrew-Velox Aesthetic)          -->
+<!-- 3. ACTIVITY GRAPH (Andrew-Velox Style)                       -->
 <!-- ============================================================ -->
-<img align='right' width="260" src="./assets/kenkankei_cmp.png" alt="Ken Kaneki">
-
 <p align="center">
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" width="400px" alt="Dhananjay's GitHub Stats"/>
-  <br/><br/>
-  <img height="170" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" width="400px" alt="GitHub Streak"/>
-</p>
-
-<br clear="both" />
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <br clear="both" />
@@ -185,10 +173,20 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 ---
 
 <!-- ============================================================ -->
-<!-- 5. ACHIEVEMENTS & CONTRIBUTIONS                              -->
+<!-- 5. STATS & ACHIEVEMENTS SHOWCASE                             -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
+  <h2 align="center">📊 GitHub Stats & Streak 📊</h2>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2 align="center">🏆 GitHub Trophies 🏆</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/trophy-output/trophy.svg" alt="GitHub Trophies" />
 </div>
@@ -196,7 +194,7 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 <br/>
 
 <div align="center">
-  <h2>🎮 Contribution Arena</h2>
+  <h2 align="center">👾 Contribution Arena 👾</h2>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -209,10 +207,10 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 <hr/>
 
 <!-- ============================================================ -->
-<!-- 6. FOOTER                                                    -->
+<!-- 6. FOOTER (Andrew-Velox Style)                               -->
 <!-- ============================================================ -->
-<div align="center">
-  <h4>⚡ Built with passion, caffeine & too many terminal windows · <a href="https://github.com/DHANANJAY-2006">DHANANJAY-2006</a></h4>
-  <br/>
+<h4 align="center">made with <img src="./assets/hearts_gif.gif" width="25" height="25" alt="Heart"/> by <a href="https://github.com/DHANANJAY-2006">Dhananjay Kadge</a></h4>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006" alt="Visitor Count" />
-</div>
+</p>
