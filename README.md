@@ -41,7 +41,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <!-- ============================================================ -->
 <!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
-<img align="right" width="360" src=".github/assets/cyber_ascii.svg" alt="Cyber Security Terminal ASCII Art" />
+<img align="right" width="360" src=".github/assets/terminal_cat.gif" alt="Cyber Terminal Walking Cat" />
 
 <p align="center">
   <img width="420px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats"/>
