@@ -41,7 +41,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <!-- ============================================================ -->
 <!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
-<img align='right' width="260" src='.github/assets/kenkankei_cmp.png' alt="Ken Kaneki">
+<img align='right' width="260" src='.github/assets/blackhole.jpg' alt="Black Hole">
 
 <p align="center">
   <br/><br/>
