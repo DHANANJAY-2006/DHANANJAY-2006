@@ -39,29 +39,26 @@ Building secure, scalable systems with clean architecture and robust solutions.
 ---
 
 <!-- ============================================================ -->
-<!-- 2. GITHUB METRICS SHOWCASE (Andrew-Velox Style)              -->
+<!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
+<img align='right' width="260" src='.github/assets/kenkankei_cmp.png' alt="Ken Kaneki">
+
 <p align="center">
-  <img width="480px" src=".github/assets/metrics-stats.svg" alt="GitHub Metrics Stats" />
-  <img width="480px" src=".github/assets/metrics-repository.svg" alt="GitHub Repository Metrics" />
-  <img width="480px" src=".github/assets/metrics-activity.svg" alt="GitHub Activity Metrics" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" width="400px" alt="GitHub Stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" width="400px" alt="Streak Stats"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANANJAY-2006&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
+  <img width="400px" src=".github/assets/metrics-stats.svg" alt="Metrics Stats"/>
+  <img width="400px" src=".github/assets/metrics-activity.svg" alt="Metrics Activity"/>
 </p>
 
-<br clear="both" />
-
-<!-- ============================================================ -->
-<!-- 3. ACTIVITY GRAPH (Andrew-Velox Style)                       -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 <br clear="both" />
 
 ---
 
 <!-- ============================================================ -->
-<!-- 4. LANGUAGES - FRAMEWORKS - TOOLS (Andrew-Velox Table Grid)   -->
+<!-- 3. LANGUAGES - FRAMEWORKS - TOOLS (Andrew-Velox Table Grid)   -->
 <!-- ============================================================ -->
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
@@ -145,7 +142,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 ---
 
 <!-- ============================================================ -->
-<!-- 5. COMPETITIVE PROGRAMMING (Andrew-Velox Style)              -->
+<!-- 4. COMPETITIVE PROGRAMMING (Andrew-Velox Style)              -->
 <!-- ============================================================ -->
 <div align="center">
   <h2 align="center">💻 Competitive programming 💻</h2>
@@ -161,7 +158,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <br/>
 
 <!-- ============================================================ -->
-<!-- 6. ACHIEVEMENTS & CONTRIBUTIONS                              -->
+<!-- 5. ACHIEVEMENTS & CONTRIBUTIONS                              -->
 <!-- ============================================================ -->
 <div align="center">
   <h2 align="center">🏆 GitHub Trophies 🏆</h2>
@@ -185,7 +182,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <hr/>
 
 <!-- ============================================================ -->
-<!-- 7. FOOTER (Andrew-Velox Style)                               -->
+<!-- 6. FOOTER (Andrew-Velox Style)                               -->
 <!-- ============================================================ -->
 <h4 align="center">made with <img src="./assets/hearts_gif.gif" width="25" height="25" alt="Heart"/> by <a href="https://github.com/DHANANJAY-2006">Dhananjay Kadge</a></h4>
 
