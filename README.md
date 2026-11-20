@@ -41,11 +41,7 @@ Building secure, scalable systems with clean architecture and robust solutions.
 <!-- ============================================================ -->
 <!-- 2. STATS & METRICS SHOWCASE (Andrew-Velox Style)             -->
 <!-- ============================================================ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/character_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset=".github/assets/character.jpg">
-  <img align='right' width="240" src='.github/assets/character_dark.png' alt="Character Artwork">
-</picture>
+<img align='right' width="280" src='.github/assets/matrix_cyber.jpg' alt="Cyber Matrix Art">
 
 <p align="center">
   <br/><br/>
