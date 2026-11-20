@@ -39,43 +39,15 @@ Building secure, scalable systems with clean architecture and robust solutions.
 ---
 
 <!-- ============================================================ -->
-<!-- 2. ABOUT ME SECTION                                          -->
+<!-- 2. GITHUB METRICS SHOWCASE (Andrew-Velox Style)              -->
 <!-- ============================================================ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+<p align="center">
+  <img width="480px" src=".github/assets/metrics-stats.svg" alt="GitHub Metrics Stats" />
+  <img width="480px" src=".github/assets/metrics-repository.svg" alt="GitHub Repository Metrics" />
+  <img width="480px" src=".github/assets/metrics-activity.svg" alt="GitHub Activity Metrics" />
+</p>
 
-```bash
-$ cat about_me.txt
-```
-
-```yaml
-Name        : Dhananjay Kadge
-Role        : Full Stack Developer | Cyber Security Engineer
-Location    : India 🇮🇳
-Education   : Engineering Student (2006 batch)
-Terminal    : Zsh + Kali Linux daily driver
-Status      : Always building something cool...
-```
-
-> *"The quieter you become, the more you can hear — the terminal never lies."* 🖤
-
-- 🔐 Obsessed with **Cyber Security**, ethical hacking & penetration testing
-- 🌐 Building **Full Stack Applications** — from backend APIs to polished frontends
-- 🐧 Living in the **terminal** — exploring Kali, Bash scripts & the Linux kernel
-- 🤖 Experimenting with **AI/ML** tools and automation pipelines
-- ☁️ Learning **Cloud & DevOps** (Docker, GCP, Firebase deployments)
-- 🎯 Currently focused on building **secure, scalable, and beautiful software**
-
-<details>
-<summary>⚡ More about my journey...</summary>
-<br>
-
-Started from zero with a curiosity about "how computers actually work," fell deep into Linux and the security rabbit hole. Now I build full-stack systems by day and explore vulnerabilities, networks, and terminal wizardry by night.
-
-**What fuels me:** Creating tools that solve real problems, understanding systems at their core, and never stopping at "it works" — always asking *why* it works.
-
-</details>
-
----
+<br clear="both" />
 
 <!-- ============================================================ -->
 <!-- 3. ACTIVITY GRAPH (Andrew-Velox Style)                       -->
@@ -173,18 +145,24 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 ---
 
 <!-- ============================================================ -->
-<!-- 5. STATS & ACHIEVEMENTS SHOWCASE                             -->
+<!-- 5. COMPETITIVE PROGRAMMING (Andrew-Velox Style)              -->
 <!-- ============================================================ -->
 <div align="center">
-  <h2 align="center">📊 GitHub Stats & Streak 📊</h2>
+  <h2 align="center">💻 Competitive programming 💻</h2>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+  <br>
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+  [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=yalniz&theme=highcontrast)](https://codeforces.com/profile/yalniz)
+
 </div>
 
 <br/>
 
+<!-- ============================================================ -->
+<!-- 6. ACHIEVEMENTS & CONTRIBUTIONS                              -->
+<!-- ============================================================ -->
 <div align="center">
   <h2 align="center">🏆 GitHub Trophies 🏆</h2>
   <br/>
@@ -207,7 +185,7 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 <hr/>
 
 <!-- ============================================================ -->
-<!-- 6. FOOTER (Andrew-Velox Style)                               -->
+<!-- 7. FOOTER (Andrew-Velox Style)                               -->
 <!-- ============================================================ -->
 <h4 align="center">made with <img src="./assets/hearts_gif.gif" width="25" height="25" alt="Heart"/> by <a href="https://github.com/DHANANJAY-2006">Dhananjay Kadge</a></h4>
 
