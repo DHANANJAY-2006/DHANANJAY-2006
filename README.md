@@ -1,16 +1,46 @@
-<!-- HEADER WAVE TOP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Dhananjay%20Kadge&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&color=gradient&customColorList=12,14,19,20,24" />
+<!-- ============================================================ -->
+<!-- 1. HERO / BANNER SECTION (Midnightshady Aesthetic)           -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Creation of Adam Banner" width="100%">
+</p>
 
-<!-- TYPING SVG INTRO -->
-<div align="center">
+<h1 align="center">Hi 👋, I'm Dhananjay Kadge</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&repeat=true&width=700&lines=Hey+there!+I'm+Dhananjay+%F0%9F%91%BE;Full+Stack+Developer+%7C+Cyber+Security+Engineer;Living+in+the+terminal+%F0%9F%96%A5%EF%B8%8F;Building+secure+%26+scalable+tech+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; Cyber Security Engineer</h3>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Ethical+Hacker+%26+Security+Researcher;%3E+Living+In+The+Terminal;%3E+Building+Secure+%26+Scalable+Architecture;%3E+If+It+Compiles%2C+It's+Staying" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Building secure, scalable systems with clean architecture and robust solutions.
+</p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://github.com/DHANANJAY-2006" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhananjay-kadge-2006-19-oct" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dhananjay_191006" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@dytea_edit.?si=te2sfcubehggyaw-" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- ============================================================ -->
+<!-- 2. ABOUT ME SECTION                                          -->
+<!-- ============================================================ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
 ```bash
@@ -47,69 +77,142 @@ Started from zero with a curiosity about "how computers actually work," fell dee
 
 ---
 
-<!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" /> Tech Stack & Tools
+<!-- ============================================================ -->
+<!-- 3. GITHUB STATS & SHOWCASE (Andrew-Velox Aesthetic)          -->
+<!-- ============================================================ -->
+<img align='right' width="260" src="./assets/kenkankei_cmp.png" alt="Ken Kaneki">
 
-<div align="center">
+<p align="center">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANANJAY-2006&show_icons=true&title_color=9745f5&text_color=ffffff&icon_color=9f4bff&bg_color=000000&hide_border=true" width="400px" alt="Dhananjay's GitHub Stats"/>
+  <br/><br/>
+  <img height="170" src="https://streak-stats.demolab.com?user=DHANANJAY-2006&theme=midnight-purple&hide_border=true" width="400px" alt="GitHub Streak"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,tailwind,html,css,nodejs,mongodb,mysql,postgresql,firebase,docker,git,gcp,linux,figma,androidstudio,tensorflow,npm" height="50" />
+<br clear="both" />
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANANJAY-2006&theme=high-contrast&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<br clear="both" />
+
+---
+
+<!-- ============================================================ -->
+<!-- 4. LANGUAGES - FRAMEWORKS - TOOLS (Andrew-Velox Table Grid)   -->
+<!-- ============================================================ -->
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" />
 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Kali Linux" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="Google Cloud" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="Git & GitHub" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================ -->
+<!-- 5. ACHIEVEMENTS & CONTRIBUTIONS                              -->
+<!-- ============================================================ -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/trophy-output/trophy.svg" alt="GitHub Trophies" />
 </div>
 
----
-
-<!-- SOCIALS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="30" height="30" /> Connect With Me
+<br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kadge-2006-19-oct)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dytea_edit.?si=te2sfcubehggyaw-)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhananjay_191006)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANANJAY-2006)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006" />
-
+  <h2>🎮 Contribution Arena</h2>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" width="100%">
+  </picture>
 </div>
 
----
+<br/>
+<hr/>
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
+<!-- ============================================================ -->
+<!-- 6. FOOTER                                                    -->
+<!-- ============================================================ -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/trophy-output/trophy.svg" />
-
-</div>
-
----
-
-<!-- GALAGA CONTRIBUTION GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30" height="30" /> Contribution Arena
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/dhananjay-2006/dhananjay-2006/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
-</picture>
-
----
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,19,20,24" />
-
-<div align="center">
-  <sub>⚡ Built with passion, caffeine & too many terminal windows · <a href="https://github.com/DHANANJAY-2006">DHANANJAY-2006</a></sub>
+  <h4>⚡ Built with passion, caffeine & too many terminal windows · <a href="https://github.com/DHANANJAY-2006">DHANANJAY-2006</a></h4>
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhananjay-2006.dhananjay-2006" alt="Visitor Count" />
 </div>
